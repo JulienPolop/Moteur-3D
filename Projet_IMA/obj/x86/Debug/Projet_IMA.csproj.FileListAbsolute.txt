@@ -1,0 +1,36 @@
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\bin\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\bin\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.Cache
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csprojResolveAssemblyReference.cache
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\bin\Debug\Projet_IMA.exe
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\bin\Debug\Projet_IMA.pdb
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csprojAssemblyReference.cache
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+D:\Google Drive\Etudes\ESIEE\E5\Modélisation Géométrique\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\bin\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\bin\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.Cache
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\IMAE5_6_tonad\core_proj_esiee\IMAE5_6_tonad\Projet_IMA\obj\x86\Debug\Projet_IMA.csprojAssemblyReference.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\bin\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\bin\Debug\Projet_IMA.pdb
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.csprojAssemblyReference.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+D:\Documents\Cours\E5\Modélisation Géométrique\Moteur 3D\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
