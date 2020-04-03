@@ -35,8 +35,8 @@ namespace Projet_IMA
         {
             unsafe
             {
-                byte RR, VV, BB; 
-                c.check();
+                byte RR, VV, BB;
+                c.Check();
                 c.To255(out RR, out  VV, out  BB);
                 
                 byte* ptr = (byte*)data.Scan0;

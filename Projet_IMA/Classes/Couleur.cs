@@ -8,9 +8,24 @@ namespace Projet_IMA
 {
     public struct Couleur
     {
-        public float R, V, B;	// composantes R,V,B comprises entre 0 et 1
+        public float R, V, B;   // composantes R,V,B comprises entre 0 et 1
 
         // constructeurs
+
+
+        public Couleur(float R, float V, float B)
+        {
+            this.R = R;
+            this.V = V;
+            this.B = B;
+        }
+
+        public Couleur(Couleur c)
+        {
+            this.R = c.R;
+            this.V = c.V;
+            this.B = c.B;
+        }
 
         public void From255(byte RR, byte VV, byte BB)
         {
@@ -26,7 +41,7 @@ namespace Projet_IMA
             cc.B = (float) (c.B / 255.0);
         }
 
-        public void check()
+        public void Check()
         {
             if (R > 1.0) R = 1.0f;
             if (V > 1.0) V = 1.0f;
@@ -42,24 +57,10 @@ namespace Projet_IMA
 
         public Color Convertion()
         {
-            check();
+            Check();
             byte RR, VV, BB;
             To255(out RR, out VV, out BB);
             return Color.FromArgb(RR, VV, BB);
-        }
-
-        public Couleur(float R, float V, float B)
-        {
-            this.R = R;
-            this.V = V;
-            this.B = B;
-        }
-
-        public Couleur(Couleur c)
-        {
-            this.R = c.R;
-            this.V = c.V;
-            this.B = c.B;
         }
 
         // méthodes

@@ -36,10 +36,10 @@ namespace Projet_IMA
     
         // constructor
 
-        public Texture(string ff)
+        public Texture(string textureFileName)
         {
             string s = System.IO.Path.GetFullPath("..\\..");
-            string path = System.IO.Path.Combine(s,"textures",ff);
+            string path = System.IO.Path.Combine(s,"textures", textureFileName);
             Bitmap B = new Bitmap(path); 
             
             Hauteur = B.Height;
@@ -78,9 +78,6 @@ namespace Projet_IMA
             int x = (int)(Lu);  // plus grand entier <=
             int y = (int)(Hv);
 
-          //  float cx = Lu - x; // reste
-          //  float cy = Hv - y;
-
             x = x % Largeur;
             y = y % Hauteur;
             if (x < 0) x += Largeur;
@@ -88,18 +85,6 @@ namespace Projet_IMA
 
 
             return C[x, y];
-
-        /*    int xpu = (x + 1) % Largeur;
-            int ypu = (y + 1) % Hauteur;
-
-            float ccx = cx * cx;
-            float ccy = cy * cy;
-
-            return
-              C[x, y] * (1 - ccx) * (1 - ccy)
-            + C[xpu, y] * ccx * (1 - ccy)
-            + C[x, ypu] * (1 - ccx) * ccy
-            + C[xpu, ypu] * ccx * ccy;*/
         }
     }    
 }

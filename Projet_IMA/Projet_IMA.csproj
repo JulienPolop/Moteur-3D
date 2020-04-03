@@ -63,29 +63,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Couleur.cs" />
-    <Compile Include="Ecran.cs" />
+    <Compile Include="Classes\Couleur.cs" />
+    <Compile Include="Classes\Ecran.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Lumières\Lumiere.cs" />
-    <Compile Include="Lumières\LumiereAmbiante.cs" />
-    <Compile Include="Lumières\LumiereDirectionnelle.cs" />
-    <Compile Include="Lumières\LumièrePoint.cs" />
-    <Compile Include="Materiel.cs" />
-    <Compile Include="Objets3D\Objet3D.cs" />
-    <Compile Include="Objets3D\Rectangle.cs" />
-    <Compile Include="Scene.cs" />
-    <Compile Include="Objets3D\Sphere.cs" />
-    <Compile Include="Trigo_InvertCoordSpherique.cs" />
+    <Compile Include="Classes\Lumières\Lumiere.cs" />
+    <Compile Include="Classes\Lumières\LumiereAmbiante.cs" />
+    <Compile Include="Classes\Lumières\LumiereDirectionnelle.cs" />
+    <Compile Include="Classes\Lumières\LumièrePoint.cs" />
+    <Compile Include="Classes\Materiel.cs" />
+    <Compile Include="Classes\Objets3D\Objet3D.cs" />
+    <Compile Include="Classes\Objets3D\Rectangle.cs" />
+    <Compile Include="Classes\Scene.cs" />
+    <Compile Include="Classes\Objets3D\Sphere.cs" />
+    <Compile Include="Classes\Trigo_InvertCoordSpherique.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProjetEleve.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Texture.cs" />
-    <Compile Include="V3.cs" />
+    <Compile Include="Classes\Texture.cs" />
+    <Compile Include="Classes\V3.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
