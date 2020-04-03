@@ -5,4 +5,6 @@
  
  A travers ce projet, nous avons implémenté différentes techniques de rendus tel que le z-buffer ou le raytracing et pu explorer les mathématiques derrière la création de scènes 3D.
 
-![Image: Présentation des menus](images/Rendu%20Scene.png)
+![Image: Image d'un rendu d'une scene](images/Rendu%20Scene.png)
+
+Ici une image d'une scene avec des surfaces et des sphères de textures et de bump map différents, ainsi que deux sources de lumières, d'où les deux ombres.
